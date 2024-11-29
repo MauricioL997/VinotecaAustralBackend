@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodegaVinosApi", "BodegaVinosApi\BodegaVinosApi.csproj", "{AA338DEC-3A67-46E5-80D0-2853885F9730}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D} = {7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}
+		{806F5731-1402-49CE-8F37-DFC5AFD72AC1} = {806F5731-1402-49CE-8F37-DFC5AFD72AC1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3E95264D-0DC5-4704-92D8-82992113AEAA} = {3E95264D-0DC5-4704-92D8-82992113AEAA}
+		{806F5731-1402-49CE-8F37-DFC5AFD72AC1} = {806F5731-1402-49CE-8F37-DFC5AFD72AC1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{806F5731-1402-49CE-8F37-DFC5AFD72AC1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3E95264D-0DC5-4704-92D8-82992113AEAA} = {3E95264D-0DC5-4704-92D8-82992113AEAA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{3E95264D-0DC5-4704-92D8-82992113AEAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA338DEC-3A67-46E5-80D0-2853885F9730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA338DEC-3A67-46E5-80D0-2853885F9730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA338DEC-3A67-46E5-80D0-2853885F9730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA338DEC-3A67-46E5-80D0-2853885F9730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806F5731-1402-49CE-8F37-DFC5AFD72AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806F5731-1402-49CE-8F37-DFC5AFD72AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806F5731-1402-49CE-8F37-DFC5AFD72AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806F5731-1402-49CE-8F37-DFC5AFD72AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E95264D-0DC5-4704-92D8-82992113AEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E95264D-0DC5-4704-92D8-82992113AEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E95264D-0DC5-4704-92D8-82992113AEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E95264D-0DC5-4704-92D8-82992113AEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85A94B5-F36D-4B7A-AAEE-236BAA414216}
+	EndGlobalSection
+EndGlobal

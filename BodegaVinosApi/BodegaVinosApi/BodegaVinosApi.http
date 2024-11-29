@@ -1,0 +1,6 @@
+@BodegaVinosApi_HostAddress = http://localhost:5164
+
+GET {{BodegaVinosApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

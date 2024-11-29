@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\bodegavinosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|solutionrelative:bodegavinosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\bodegavinosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|solutionrelative:bodegavinosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\bodegavinosapi\\controllers\\winecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|solutionrelative:bodegavinosapi\\controllers\\winecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\bodegavinosapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|solutionrelative:bodegavinosapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\bodegavinosapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA338DEC-3A67-46E5-80D0-2853885F9730}|BodegaVinosApi\\BodegaVinosApi.csproj|solutionrelative:bodegavinosapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95264D-0DC5-4704-92D8-82992113AEAA}|Common\\Common.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\common\\dtos\\winedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E95264D-0DC5-4704-92D8-82992113AEAA}|Common\\Common.csproj|solutionrelative:common\\dtos\\winedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95264D-0DC5-4704-92D8-82992113AEAA}|Common\\Common.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E95264D-0DC5-4704-92D8-82992113AEAA}|Common\\Common.csproj|solutionrelative:common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95264D-0DC5-4704-92D8-82992113AEAA}|Common\\Common.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\common\\dtos\\authrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E95264D-0DC5-4704-92D8-82992113AEAA}|Common\\Common.csproj|solutionrelative:common\\dtos\\authrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}|Services\\Services.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\services\\services\\wineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}|Services\\Services.csproj|solutionrelative:services\\services\\wineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}|Services\\Services.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}|Services\\Services.csproj|solutionrelative:services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}|Services\\Services.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\services\\interfaces\\iwineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iwineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}|Services\\Services.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2D6D35-0DD2-4B8F-BD63-8B27524B3A4D}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\data\\repository\\repositories\\winerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|solutionrelative:data\\repository\\repositories\\winerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\data\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|solutionrelative:data\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\data\\repository\\interfaces\\iwinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|solutionrelative:data\\repository\\interfaces\\iwinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\data\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|solutionrelative:data\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\data\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|solutionrelative:data\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\data\\entities\\wine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|solutionrelative:data\\entities\\wine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|c:\\users\\mauricio\\source\\repos\\bodegavinosapi\\data\\entities\\cata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806F5731-1402-49CE-8F37-DFC5AFD72AC1}|Data\\Data.csproj|solutionrelative:data\\entities\\cata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\Program.cs",
+              "RelativeDocumentMoniker": "BodegaVinosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\Program.cs*",
+              "RelativeToolTip": "BodegaVinosApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:25:36.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BodegaVinosApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\appsettings.json",
+              "RelativeToolTip": "BodegaVinosApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T01:25:21.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WineController.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\Controllers\\WineController.cs",
+              "RelativeDocumentMoniker": "BodegaVinosApi\\Controllers\\WineController.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\Controllers\\WineController.cs",
+              "RelativeToolTip": "BodegaVinosApi\\Controllers\\WineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:25:02.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BodegaVinosApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BodegaVinosApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:24:41.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "BodegaVinosApi\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\BodegaVinosApi\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "BodegaVinosApi\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:24:14.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WineDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Common\\DTOs\\WineDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\WineDto.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Common\\DTOs\\WineDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\WineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:23:48.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Common\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Common\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:23:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Common\\DTOs\\AuthRequestDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\AuthRequestDto.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Common\\DTOs\\AuthRequestDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\AuthRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:23:30.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WineService.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Services\\Services\\WineService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\WineService.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Services\\Services\\WineService.cs",
+              "RelativeToolTip": "Services\\Services\\WineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:22:37.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Services\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:22:07.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWineService.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Services\\Interfaces\\IWineService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IWineService.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Services\\Interfaces\\IWineService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IWineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:21:31.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:21:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Repository\\Repositories\\WineRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Repositories\\WineRepository.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Repository\\Repositories\\WineRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Repositories\\WineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:19:14.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:19:01.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Repository\\Interfaces\\IWineRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Interfaces\\IWineRepository.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Repository\\Interfaces\\IWineRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Interfaces\\IWineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:18:25.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:18:08.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "Data\\Context\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:17:31.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Wine.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Entities\\Wine.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Wine.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Entities\\Wine.cs",
+              "RelativeToolTip": "Data\\Entities\\Wine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:16:46.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:16:39.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cata.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Entities\\Cata.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Cata.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\source\\repos\\BodegaVinosApi\\Data\\Entities\\Cata.cs",
+              "RelativeToolTip": "Data\\Entities\\Cata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:16:30.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

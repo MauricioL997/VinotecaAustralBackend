@@ -1,0 +1,154 @@
+[
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.AuthenticateController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Authenticate/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "Common.DTOs.AuthRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.CataController",
+    "Method": "GetAllCatas",
+    "RelativePath": "api/Cata",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.CataController",
+    "Method": "UpdateGuests",
+    "RelativePath": "api/Cata/{id}/invitados",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "invitados",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.CataController",
+    "Method": "AddCata",
+    "RelativePath": "api/Cata/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cataDto",
+        "Type": "Common.DTOs.CataDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.CataController",
+    "Method": "GetFutureCatas",
+    "RelativePath": "api/Cata/future",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "Common.DTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.WineController",
+    "Method": "GetAllWines",
+    "RelativePath": "api/Wine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.WineController",
+    "Method": "UpdateStock",
+    "RelativePath": "api/Wine/{id}/stock",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newStock",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.WineController",
+    "Method": "GetWineByName",
+    "RelativePath": "api/Wine/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BodegaVinosApi.Controllers.WineController",
+    "Method": "AddWine",
+    "RelativePath": "api/Wine/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "wineDto",
+        "Type": "Common.DTOs.WineDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
